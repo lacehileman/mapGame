@@ -1,0 +1,22 @@
+* {
+	font-family: Times New Roman;
+}
+
+header {
+	width: 700px;
+
+	margin: auto;
+	text-align: center;
+}
+
+
+#usMap {
+	margin: auto;
+	text-align: right;
+}
+
+#findCarmen {
+	margin: 50px;
+	text-align: center;
+}
+
